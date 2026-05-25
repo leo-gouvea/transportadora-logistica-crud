@@ -27,6 +27,12 @@ Sistema CRUD desenvolvido em PHP e MySQL para gerenciamento de entregas, motoris
 
 ![Entregas](assets/screenshots/entregas.png)
 
+![Dashboard](assets/screenshots/dashboard.png)
+
+![Ocorrências](assets/screenshots/ocorrencias.png)
+
+![Veículos](assets/screenshots/veiculos.png)
+
 ## Banco de Dados
 
 O banco pode ser recriado utilizando:
