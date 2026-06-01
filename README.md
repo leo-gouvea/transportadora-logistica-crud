@@ -79,9 +79,10 @@ define('DB', 'seu-banco');
 
 **3. Importe o banco de dados**
 
-No MySQL Workbench (ou phpMyAdmin), importe o arquivo:
+No MySQL Workbench (ou phpMyAdmin), importe os arquivos:
 ```
 database/schema.sql
+database/seed.sql
 ```
 
 **4. Acesse no navegador**
@@ -97,7 +98,7 @@ http://localhost/transportadora-logistica-crud/login.php
 
 | Campo | Valor |
 |---|---|
-| E-mail | `admin@transportadora.com` |
+| E-mail | `admin@example.com` |
 | Senha | `admin123` |
 
 ---
